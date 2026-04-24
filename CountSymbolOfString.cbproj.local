@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.04.24 16:41:51.963,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.04.24 16:41:52.139,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.04.24 16:43:18.460,D:\Projects\Programming\CPP\BDS\Console\Algorithms\CountSymbolOfString\CountSymbolOfStringPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.04.24 16:43:18.471,D:\Projects\Programming\CPP\BDS\Console\Algorithms\CountSymbolOfString\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.04.24 16:43:18.482,D:\Projects\Programming\CPP\BDS\Console\Algorithms\CountSymbolOfString\CountSymbolOfString.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.04.24 16:43:43.916,D:\Projects\Programming\CPP\BDS\Console\Algorithms\CountSymbolOfString\CountSymbolOfString.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\CountSymbolOfString\File1.cpp</Transaction>
+    <Transaction>2026.04.24 16:43:46.298,D:\Projects\Programming\CPP\BDS\Console\Algorithms\CountSymbolOfString\CountSymbolOfString.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\CountSymbolOfString\CountSymbolOfString.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
